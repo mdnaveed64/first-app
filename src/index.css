@@ -1,0 +1,9 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.bg-teal{
+    background-color: #205e5e;
+}
+.table tbody tr td{
+    font-weight: bold;
+}
